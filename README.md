@@ -1,3 +1,6 @@
-# Tämä lienee otsikko
+# Ohjelmistotekniikka, harjoitustyö
+## Tehtävät
+### Viikko 1
 
-Tässä sen sijaan kaiken järjen mukaan on jonkinlaista tavallista tekstiä sisältäen **lihavoituja** ja _kursivoituja_ kohtia.
+[gitlog.txt](https://github.com/HerrDrProfessor/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
+[komentorivi.txt](https://github.com/HerrDrProfessor/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
