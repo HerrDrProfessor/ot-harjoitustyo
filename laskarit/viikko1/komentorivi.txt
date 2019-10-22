@@ -1,1 +1,2 @@
 komennon tree tulos
+mitenkäs tämä toimii, jos vähän muutan tiedostoa?
