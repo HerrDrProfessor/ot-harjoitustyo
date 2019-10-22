@@ -6,3 +6,5 @@
 [komentorivi.txt](https://github.com/HerrDrProfessor/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
 
 Tämä tässä on *muutos* **tekstiin**.
+
+Hahaa!
